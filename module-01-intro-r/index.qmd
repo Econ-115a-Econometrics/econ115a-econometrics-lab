@@ -24,7 +24,9 @@ editor: visual
 knitr::opts_chunk$set(comment = "", collapse = TRUE)
 
 ## working directory
-setwd("C:/Users/chris/Documents/Github-repository/econ115a-laboratory/module-01-intro-r")
+# setwd("C:/Users/chris/Documents/Github-repository/econ115a-laboratory/module-01-intro-r")
+
+# setwd("C:/Users/chris/Documents/Github-repository/econ115a-laboratory/module-01-intro-r")
 
 ## libraries
 library(tidyverse)
@@ -1009,4 +1011,4 @@ data %>%
 
 # 
 
-![](img/econ148-hex-logo.png){fig-align="center" height="40%" width="40%"}
+![](img/econ115a-hex-logo.png){fig-align="center" height="40%" width="40%"}
